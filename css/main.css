@@ -1,0 +1,53 @@
+body {
+  background: #283c86;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #45a247, #283c86);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #45a247, #283c86); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+  background-repeat: no-repeat;
+
+}
+
+.js-form {
+  width: 900px;
+  margin: 0 auto;
+}
+
+
+
+
+
+.list-item {
+  width: 400px;
+  margin: 0 auto;
+}
+
+
+.modal2 {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.modal2-inner {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  width: 300px;
+  height: 500px;
+  background-color: #ccc;
+}
+
+.img2 {
+  width: 100%;
+}
+
+.none {
+  display: none;
+}
